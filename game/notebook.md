@@ -4,21 +4,21 @@
 - [ ] The Teacher
 - [ ] The Police Officer
 - [ ] The Innkeeper
-- [ ] The Artist
-- [ ] The Journalist
-- [ ] Garden Shears
-- [ ] The Mayor
-- [ ] The Shopkeeper
-- [ ] The Clockmaker
+- [X] The Artist
+- [X] The Journalist
+- [X] Garden Shears
+- [X] The Mayor
+- [X] The Shopkeeper
+- [X] The Clockmaker
 
 ## Weapons
 - [ ] Kitchen Knife
 - [ ] Glass Bottle
-- [ ] Iron Poker
-- [ ] Crystal Vase
-- [ ] Magnifying Glass
-- [ ] Steel Ruler
-- [ ] Iron Poker
+- [X] Iron Poker
+- [X] Crystal Vase
+- [X] Magnifying Glass
+- [X] Steel Ruler
+- [X] Bronze Trophy
 
 ## Notes
 *Use this space to record your findings and deductions...*
