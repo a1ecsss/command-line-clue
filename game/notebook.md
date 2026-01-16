@@ -6,6 +6,7 @@
 - [ ] The Innkeeper
 - [ ] The Artist
 - [ ] The Journalist
+- [ ] Garden Shears
 
 ## Weapons
 - [ ] Kitchen Knife
