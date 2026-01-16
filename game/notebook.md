@@ -7,6 +7,9 @@
 - [ ] The Artist
 - [ ] The Journalist
 - [ ] Garden Shears
+- [ ] The Mayor
+- [ ] The Shopkeeper
+- [ ] The Clockmaker
 
 ## Weapons
 - [ ] Kitchen Knife
