@@ -4,11 +4,14 @@
 - [ ] The Teacher
 - [ ] The Police Officer
 - [ ] The Innkeeper
+- [ ] The Artist
 
 ## Weapons
 - [ ] Kitchen Knife
 - [ ] Glass Bottle
 - [ ] Iron Poker
+- [ ] Crystal Vase
+- [ ] Magnifying Glass
 
 ## Notes
 *Use this space to record your findings and deductions...*
