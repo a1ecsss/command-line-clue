@@ -12,6 +12,7 @@
 - [ ] Iron Poker
 - [ ] Crystal Vase
 - [ ] Magnifying Glass
+- [ ] Steel Ruler
 
 ## Notes
 *Use this space to record your findings and deductions...*
