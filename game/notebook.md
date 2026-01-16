@@ -9,7 +9,10 @@
 - [X] Garden Shears
 - [X] The Mayor
 - [X] The Shopkeeper
+- [X] The Chef
 - [X] The Clockmaker
+- [X] The Banker
+- [X] Heavy Book
 
 ## Weapons
 - [ ] Kitchen Knife
