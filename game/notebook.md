@@ -5,6 +5,7 @@
 - [ ] The Police Officer
 - [ ] The Innkeeper
 - [ ] The Artist
+- [ ] The Journalist
 
 ## Weapons
 - [ ] Kitchen Knife
@@ -13,6 +14,7 @@
 - [ ] Crystal Vase
 - [ ] Magnifying Glass
 - [ ] Steel Ruler
+- [ ] Iron Poker
 
 ## Notes
 *Use this space to record your findings and deductions...*
