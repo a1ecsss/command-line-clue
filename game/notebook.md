@@ -2,8 +2,8 @@
 
 ## Suspects
 - [ ] The Teacher
-- [ ] The Police Officer
-- [ ] The Innkeeper
+- [X] The Police Officer
+- [X] The Innkeeper
 - [X] The Artist
 - [X] The Journalist
 - [X] Garden Shears
@@ -15,13 +15,14 @@
 - [X] Heavy Book
 
 ## Weapons
-- [ ] Kitchen Knife
+- [X] Kitchen Knife
 - [ ] Glass Bottle
 - [X] Iron Poker
 - [X] Crystal Vase
 - [X] Magnifying Glass
 - [X] Steel Ruler
 - [X] Bronze Trophy
+- [X] Paint Brush
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -39,3 +40,12 @@ witness accounts - no one was around when the crime occurred. This must be
 where the murderer carried out their plan!
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
+## RESULTADO
+
+esteban@DESKTOP-FJ608M4:~/.tarea1/command-line-clue/game$ python3 accuse.py "The Teacher" "Glass Bottle" "greenhouse"
+
+🎉 CONGRATULATIONS DETECTIVE! 🎉
+You have correctly identified the killer, the weapon, and the location!
+It was The Teacher with the Glass Bottle in the greenhouse.
+The town is safe once again thanks to your command line skills.
